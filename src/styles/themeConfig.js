@@ -11,8 +11,8 @@ const theme = {
     },
     fonts:{
         LOGO:"'Squada One', cursive",
-        BASE: "'Battambang', cursive",
-        SECOND: " 'Voces', cursive;"
+        BASE: "'Roboto', cursive",
+        SECOND: " 'Open Sans', cursive;"
     }
 
     }
