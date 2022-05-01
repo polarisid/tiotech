@@ -1,0 +1,7 @@
+/node_modules
+/.husky
+/public
+/package.json
+/package-lock.json
+/.gitignore
+/build
